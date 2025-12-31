@@ -3,23 +3,23 @@ entries:
   payments:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-31T10:32:02.937839+05:45"
+    created: "2025-12-31T11:17:03.054591+05:45"
     description: A Helm chart for Kubernetes
     digest: 9822d87e51f6b4c8223fbdca60ed236291ac86d06b02268597d30367454ddef0
     name: payments
     type: application
     urls:
-    - payments-0.1.0.tgz
+    - https://manojphaju.github.io/chart/charts/charts/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-31T10:32:02.93811+05:45"
+    created: "2025-12-31T11:17:03.054839+05:45"
     description: A Helm chart for Kubernetes
     digest: c2f96e5bfb18f883e439917febfba2a1957d16cdd28499e7f697a527e27bd2f3
     name: shipping
     type: application
     urls:
-    - shipping-0.1.0.tgz
+    - https://manojphaju.github.io/chart/charts/charts/shipping-0.1.0.tgz
     version: 0.1.0
-generated: "2025-12-31T10:32:02.937079+05:45"
+generated: "2025-12-31T11:17:03.053813+05:45"
