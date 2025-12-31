@@ -5,4 +5,8 @@ image:
 appMessage: "Payments Service"
 
 service:
-  port: 80 
+  port: 80
+
+serviceAccount:
+  create: true  # Add this line to control ServiceAccount creation
+  automount: true 
