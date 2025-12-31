@@ -9,7 +9,7 @@ entries:
     name: payments
     type: application
     urls:
-    - https://manojphaju.github.io/chart/charts/charts/payments-0.1.0.tgz
+    - https://manojphaju.github.io/chart/charts/payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
@@ -20,6 +20,6 @@ entries:
     name: shipping
     type: application
     urls:
-    - https://manojphaju.github.io/chart/charts/charts/shipping-0.1.0.tgz
+    - https://manojphaju.github.io/chart/charts/shipping-0.1.0.tgz
     version: 0.1.0
 generated: "2025-12-31T11:17:03.053813+05:45"
